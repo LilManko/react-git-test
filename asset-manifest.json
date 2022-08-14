@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-git-test.git/static/css/main.073c9b0a.css",
+    "main.js": "/react-git-test.git/static/js/main.a05df41d.js",
+    "static/js/787.77310fb9.chunk.js": "/react-git-test.git/static/js/787.77310fb9.chunk.js",
+    "static/media/logo.svg": "/react-git-test.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-git-test.git/index.html",
+    "main.073c9b0a.css.map": "/react-git-test.git/static/css/main.073c9b0a.css.map",
+    "main.a05df41d.js.map": "/react-git-test.git/static/js/main.a05df41d.js.map",
+    "787.77310fb9.chunk.js.map": "/react-git-test.git/static/js/787.77310fb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a05df41d.js"
+  ]
+}
